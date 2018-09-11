@@ -10,7 +10,11 @@
 └───`Unacceptable` - contains 36 well log images from the 'unacceptable category.   
 
 ## Training
+Create training set by spliting train data into 512×512 chunks:
+`niqe/split.m`
 
+Train NIQE model
+`niqe/train.m`
 
 ## Usage
 
