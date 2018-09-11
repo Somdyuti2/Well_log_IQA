@@ -20,7 +20,7 @@ Train NIQE model:
 Use trained NIQE model to predict NIQE scores on test well log image data:  
 `niqe\get_NIQE_scores`
 
- Plot the NIQE scores for the two categories:
+ Plot the NIQE scores for the two categories:  
  `niqe\plots.m`
 
 
