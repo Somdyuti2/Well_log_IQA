@@ -18,9 +18,9 @@ Train NIQE model:
 
 ## Usage
 Use trained NIQE model to predict NIQE scores on test well log image data:  
-`niqe\get_NIQE_scores`
+`niqe/get_NIQE_scores`
 
  Plot the NIQE scores for the two categories:  
- `niqe\plots.m`
+ `niqe/plots.m`
 
 
