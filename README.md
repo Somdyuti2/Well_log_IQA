@@ -1,6 +1,6 @@
 # Image Quality Assessment of Scanned Well logs Using [NIQE](https://ieeexplore.ieee.org/document/6353522/)
 
-
+Characterizes the quality of scanned well log images as 'acceptable' or 'unacceptable' for further processing and information retrieval using a image statistics IQA model (NIQE). 
 
 ## Dataset
 `Well_log_pristines` - 157 images from the 'acceptable' category to be used as training data.
