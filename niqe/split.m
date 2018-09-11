@@ -2,6 +2,10 @@ clc;
 clear all; 
 close all; 
 
+if(~exist('../Train'))
+mkdir('../Train');
+end
+
 %% Split Pristine well logs into 512x512 chunks to form the training set.
 folderpath   = '..\Well_log_pristines';
 current = pwd;
