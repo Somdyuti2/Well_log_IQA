@@ -5,7 +5,7 @@
 ## Dataset
 `Well_log_pristines` - comprises 157 scanned well log images from the 'acceptable' category.
 
-`Test`
-├───`Acceptable` - contains 36 well log images from the 'acceptable' category
-└───`Unacceptable` - contains 36 well log images from the 'unacceptable category. 
+`Test`   
+├───`Acceptable` - contains 36 well log images from the 'acceptable' category.   
+└───`Unacceptable` - contains 36 well log images from the 'unacceptable category.   
 
