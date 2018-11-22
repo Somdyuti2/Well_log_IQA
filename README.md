@@ -10,9 +10,9 @@ Characterizes the quality of scanned well log images as 'acceptable' or 'unaccep
 ├───`Acceptable` - contains 36 well log images from the 'acceptable' category.   
 └───`Unacceptable` - contains 36 well log images from the 'unacceptable category.   
 
-`dataset_B'
+`dataset_B'  
 ├───`Acceptable` - contains 64 well log images from the 'acceptable' category.   
-└───`Unacceptable` - contains 64 well log images from the 'unacceptable category.   
+└───`Unacceptable` - contains 64 well log images from the 'unacceptable category.     
 
 
 ## Training
