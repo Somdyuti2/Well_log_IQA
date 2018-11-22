@@ -6,9 +6,9 @@ Characterizes the quality of scanned well log images as 'acceptable' or 'unaccep
 `Well_log_pristines` - 157 images from the 'acceptable' category to be used as training data.
 
 `Test` - Contains data for evaluating trained model  
-`dataset_A'
-├───`Acceptable` - contains 36 well log images from the 'acceptable' category.   
-└───`Unacceptable` - contains 36 well log images from the 'unacceptable category.   
+`dataset_A'  
+├───`Acceptable` - contains 36 well log images from the 'acceptable' category.     
+└───`Unacceptable` - contains 36 well log images from the 'unacceptable category.     
 
 `dataset_B'  
 ├───`Acceptable` - contains 64 well log images from the 'acceptable' category.   
